@@ -25,7 +25,6 @@ I'm a Computer Engineering student at UC Santa Cruz with a minor in Computer Sci
 
 - 📊 **AI Performance Analysis:** Nonlinear regression models to predict GPU power usage based on ML inference latency  
 - 🧠 **AIEA:** Conducting research on autonomous vehicles in the Artificial Intelligence Explainability & Accountability lab 
-- 📱 **Productivity App:** Designing a customizable work-to-break time tracker  
 - 🧬 **EcoScape Modeling:** Geospatial analysis and connectivity mapping using R  
 
 ---
